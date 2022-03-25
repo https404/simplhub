@@ -1,2 +1,2 @@
-# simplhub
-roblox hub
+# simpl
+clicker simulator
